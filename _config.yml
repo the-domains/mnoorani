@@ -1,0 +1,29 @@
+typography_spectrum: 0.020530796609818935
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.26175037445500493
+  lightness: 0.9500889179762453
+  saturation: 0.04015118279494345
+  rhythmicContrast: 0.8504655312281102
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8739057614002377
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: mnoorani
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: Your Realtor for life
+purpose: []
